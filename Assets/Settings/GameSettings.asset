@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77897a2abe744b58a35ad1fecde4101c, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  <PlayerSettings>k__BackingField: {fileID: 11400000, guid: 48bd49efd52567e488b038b0f673f94c, type: 2}
+  <JsonsSettings>k__BackingField: {fileID: 11400000, guid: cec8807f0895d1d41b6cbe456e2f5c36, type: 2}
+  <MoneySettings>k__BackingField: {fileID: 11400000, guid: 74d709e9e70b787448dd3cb633ab9f1d, type: 2}
+  <LevelSettings>k__BackingField: {fileID: 11400000, guid: 822ca2a79bdf19d4b93c13f1876ee489, type: 2}
